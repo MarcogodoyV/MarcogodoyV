@@ -9,11 +9,10 @@
 <p text='bold'>I'm Electronic engineer, bilingual (Spanish and English), always looking for new opportunities in the world of technology, that's why I'm currently training as Web Developer, happy to take on new challenges in order to develop and improve my professional career and continue my journey as professional Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
 
 ### Get in touch:
-<div align='center'><a href='https://www.linkedin.com/in/marcogdv/'>
+<div><a href='https://www.linkedin.com/in/marcogdv/'>
 <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'></img>
 </a></div>
-<br>
-<div align='center'><a href='https://twitter.com/marcogdv'>
+<div><a href='https://twitter.com/marcogdv'>
 <img src='https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge'></img>
 </a></div>
 
