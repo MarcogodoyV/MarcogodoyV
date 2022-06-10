@@ -6,7 +6,7 @@
 
 ### About Me:
 
-<p text='bold'>I'm Electronic engineer, bilingual (Spanish and English), always looking for new opportunities in the world of technology, that's why I'm currently training as Web Developer, happy to take on new challenges in order to develop and improve my professional career and continue my journey as professional Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+<p text='bold'>I'm an Electronic engineer, bilingual (Spanish and English), always looking for new opportunities in the world of technology, that's why I'm currently training as a Web Developer, happy to take on new challenges to develop and improve my professional career and continue my journey as professional Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
 
 ### Get in touch:
 <div><a href='https://www.linkedin.com/in/marcogdv/'>
