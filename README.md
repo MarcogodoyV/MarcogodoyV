@@ -41,6 +41,8 @@
   
 ### :fire: My Stats :
 
+![CodeWars Badge](https://www.codewars.com/users/MarcogodoyV/badges/large)
+<br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcogodoyV&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcogodoyV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
