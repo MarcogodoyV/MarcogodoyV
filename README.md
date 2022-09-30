@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Marco Godoy</h1>
-<h3 align="center">A passionate front-end developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 ### About Me:
 
-<p text='bold'>I'm an Electronic engineer, bilingual (Spanish and English), always looking for new opportunities in the world of technology, that's why I'm currently training as a Web Developer, happy to take on new challenges to develop and improve my professional career and continue my journey as professional Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+<p text='bold'>I'm an Electronic engineer, bilingual (Spanish and English), always looking for new opportunities in the world of technology, happy to take on new challenges to develop and improve my professional career and continue my journey as professional Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
 
 ### Get in touch:
 <div><a href='https://www.linkedin.com/in/marcogdv/'>
@@ -46,3 +46,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcogodoyV&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcogodoyV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@marcogodoyv's Holopin board](https://holopin.io/api/user/board?user=marcogodoyv)](https://holopin.io/@marcogodoyv)
